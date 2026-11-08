@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "385116633606",
+    "firebase_url": "https://job-portal-340aa-default-rtdb.firebaseio.com",
+    "project_id": "job-portal-340aa",
+    "storage_bucket": "job-portal-340aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385116633606:android:b2e8789921d37d3fe12187",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKzvyJjZmFKHwrxYrptQICHdQXf7Zz24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385116633606:android:337fb1e2c7b214cae12187",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKzvyJjZmFKHwrxYrptQICHdQXf7Zz24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385116633606:android:d50fbd960f844a17e12187",
+        "android_client_info": {
+          "package_name": "com.example.social_app4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKzvyJjZmFKHwrxYrptQICHdQXf7Zz24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
